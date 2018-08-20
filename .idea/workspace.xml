@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fdce785f-6f5e-44ea-84ce-b2e376d2823c" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/storm/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/storm/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -19,7 +20,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/storm/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="173">
-              <caret line="20" column="49" selection-start-line="20" selection-start-column="49" selection-end-line="20" selection-end-column="49" />
+              <caret line="20" column="42" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -239,7 +240,7 @@
       <workItem from="1533650042331" duration="1441000" />
       <workItem from="1533734088500" duration="679000" />
       <workItem from="1534687407506" duration="593000" />
-      <workItem from="1534780057562" duration="2198000" />
+      <workItem from="1534780057562" duration="2537000" />
     </task>
     <task id="LOCAL-00001" summary="dfsdf">
       <created>1534781204742</created>
@@ -252,7 +253,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10033000" />
+    <option name="totallyTimeSpent" value="10372000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -489,7 +490,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/storm/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="173">
-          <caret line="20" column="49" selection-start-line="20" selection-start-column="49" selection-end-line="20" selection-end-column="49" />
+          <caret line="20" column="42" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
