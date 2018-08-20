@@ -18,7 +18,7 @@ public class Main extends Application {
         Scene scene = new Scene(pane);
         Stage stage = new Stage();
         stage.setScene(scene);
-        stage.setTitle("Properties example - test");
+        stage.setTitle("Properties example");
         stage.setResizable(false);
         stage.show();
     }
