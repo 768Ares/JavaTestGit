@@ -38,6 +38,11 @@
       <HBox prefHeight="100.0" prefWidth="200.0">
          <children>
             <Button fx:id="logginButton" mnemonicParsing="false" text="Zaloguj" />
+            <Button fx:id="modalButton" mnemonicParsing="false" onAction="#ShowModal" text="Modal Show">
+               <HBox.margin>
+                  <Insets left="20.0" />
+               </HBox.margin>
+            </Button>
          </children></HBox>
    </children>
    <padding>

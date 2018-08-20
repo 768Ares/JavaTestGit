@@ -1,6 +1,7 @@
 package com.storm.fx.controller;
 
 import com.storm.fx.model.PersonViewModel;
+import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.geometry.Insets;
 import javafx.scene.control.Button;
@@ -9,6 +10,8 @@ import javafx.scene.control.Label;
 import javafx.scene.control.TextField;
 import javafx.scene.layout.*;
 import javafx.scene.paint.Color;
+import javafx.stage.Modality;
+import javafx.stage.Stage;
 import javafx.util.StringConverter;
 import javafx.util.converter.NumberStringConverter;
 
@@ -67,5 +70,13 @@ public class Controller {
         });
 
 
+    }
+
+    public void ShowModal(ActionEvent event) {
+        Stage dialog = new Stage();
+
+//        dialog.initOwner(parentStage);
+        dialog.initModality(Modality.APPLICATION_MODAL);
+        dialog.showAndWait();
     }
 }
