@@ -11,6 +11,7 @@ public class Main extends Application {
         launch(args);
 
         System.out.println("master test and newTask");
+        System.out.println("newTask");
 
     }
 
