@@ -9,8 +9,11 @@ import javafx.stage.Stage;
 public class Main extends Application {
     public static void main(String[] args) {
         launch(args);
-        System.out.println("master test");
+
+        System.out.println("master test and newTask");
+
     }
+
 
     @Override
     public void start(Stage primaryStage) throws Exception {
